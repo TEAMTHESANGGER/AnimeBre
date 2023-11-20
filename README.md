@@ -1,2 +1,2 @@
 # AnimeBre
-Anime Bre - Aplikasi Streaming Anime Di Android
+AnimeBre - Aplikasi Streaming Anime Di Android
