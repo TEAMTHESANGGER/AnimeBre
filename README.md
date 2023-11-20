@@ -3,7 +3,7 @@
   <a href=""><img width="200" height="200" src="https://github.com/TEAMTHESANGGER/AnimeBre/blob/main/src/ic_ab.png"></a>
 </p>
 <p align="center" style="font-size:20px"><b>ANIME BRE</b></p>
-<p align="center" style="font-size:16px">APLIKASI STREAMING ANIME FAVORIT DI ANDROID</p>
+<p align="center" **Anime Bre** is a simple app to help you watch anime in your phone.
 
 <p align="center">
   <a href="https://www.android.com"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a> <a href="https://www.github.com/fakeyatogod/"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></a>
