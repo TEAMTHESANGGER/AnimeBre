@@ -81,4 +81,4 @@ SOFTWARE.
 ```
 
 Have any suggestions? found a bug? Feel free to create an [issue](https://github.com/TEAMTHESANGGER/AnimeBre/issues/new) with detailed description.
-<p align="center">Made with ❤ by <a href="https://github.com/TEAMTHESANGGER">TEAM_THESANGGER</a></p>
+<p align="center">Made with ❤ by <a href="https://github.com/TEAMTHESANGGER/TEAM-THESANGGER">TEAM_THESANGGER</a></p>
