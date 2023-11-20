@@ -2,7 +2,8 @@
 <p align="center">
   <a href=""><img width="200" height="200" src="https://github.com/TEAMTHESANGGER/AnimeBre/blob/main/src/ic_ab.png"></a>
 </p>
-<p align="center" style="font-size:18px"><b>Anime Bre</b></p>
+<p align="center" style="font-size:20px"><b>ANIME BRE</b></p>
+<p align="center" style="font-size:16px">APLIKASI STREAMING ANIME FAVORIT DI ANDROID</p>
 
 <p align="center">
   <a href="https://www.android.com"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a> <a href="https://www.github.com/fakeyatogod/"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></a>
@@ -81,4 +82,3 @@ SOFTWARE.
 
 Have any suggestions? found a bug? Feel free to create an [issue](https://github.com/TEAMTHESANGGER/AnimeBre/issues/new) with detailed description.
 <p align="center">Made with ❤ by <a href="https://github.com/TEAMTHESANGGER">TEAM_THESANGGER</a></p>
-AnimeBre/README.md at main · kl3jvi/AnimeScrap 
